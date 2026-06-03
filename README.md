@@ -6,7 +6,7 @@ Just an overview over FortiNets FortiOS release dates
 | Latest version  | Release date |
 | ------------- | ------------- |
 | 8.0.0	| 2026-04-21 |
-| 7.6.6	| 2025-01-28 |
+| 7.6.7	| 2025-06-02 |
 | 7.4.12	| 2026-05-28 |
 | 7.2.13	| 2026-01-30 |
 | 7.0.19	| 2026-01-30 |
@@ -28,7 +28,7 @@ Just an overview over FortiNets FortiOS release dates
 | 7.6.4	| 2025-08-21 |
 | 7.6.5	| 2025-12-11 |
 | 7.6.6	| 2025-01-28 |
-
+| 7.6.7	| 2025-06-02 |
 
 | Verison  | Release date |
 | ------------- | ------------- |
