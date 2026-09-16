@@ -5,7 +5,7 @@ Just an overview over FortiNets FortiOS release dates
 
 | Latest version  | Release date |
 | ------------- | ------------- |
-| 8.0.0	| 2026-04-21 |
+| 8.0.1	| 2026-09-16 |
 | 7.6.7	| 2025-06-02 |
 | 7.4.12	| 2026-05-28 |
 | 7.2.13	| 2026-01-30 |
@@ -15,11 +15,12 @@ Just an overview over FortiNets FortiOS release dates
 | 6.0.18	| 2024-02-22 |
 
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 8.0.0	| 2026-04-21 |
+| 8.0.1	| 2026-09-16 |
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 7.6.0	| 2024-07-25 |
 | 7.6.1	| 2024-11-28 |
@@ -30,7 +31,7 @@ Just an overview over FortiNets FortiOS release dates
 | 7.6.6	| 2025-01-28 |
 | 7.6.7	| 2025-06-02 |
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 7.4.0	| 2023-05-11 |
 | 7.4.1	| 2023-08-31 |
@@ -46,7 +47,7 @@ Just an overview over FortiNets FortiOS release dates
 | 7.4.11	| 2026-01-27 |
 | 7.4.12	| 2026-05-28 |
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 7.2.0	| 2022-03-31 |
 | 7.2.1	| 2022-08-04 |
@@ -64,7 +65,7 @@ Just an overview over FortiNets FortiOS release dates
 | 7.2.13	| 2026-01-30 |
 
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 	7.0.0		| 2021-03-30 |
 | 	7.0.1		| 2021-07-15 |
@@ -87,7 +88,7 @@ Just an overview over FortiNets FortiOS release dates
 | 	7.0.18		| 2025-11-06 |
 | 7.0.19	| 2026-01-30 |
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 6.4.0	| 2020-03-31 |
 | 6.4.1	| 2020-06-04 |
@@ -108,7 +109,7 @@ Just an overview over FortiNets FortiOS release dates
 | 6.4.16	| 2025-03-27 | 
 
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 6.2.0	| 2019-09-06 |
 | 6.2.1	| 2019-09-06 |
@@ -130,7 +131,7 @@ Just an overview over FortiNets FortiOS release dates
 | 6.2.17	| 2025-05-27 |
 
 
-| Verison  | Release date |
+| Version  | Release date |
 | ------------- | ------------- |
 | 6.0.0	| 2019-09-06 |
 | 6.0.1	| 2019-09-06 |
